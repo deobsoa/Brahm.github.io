@@ -8,7 +8,7 @@ Static HTML/CSS/JS site, GitHub Pages ready. All demo data is synthetic.
 
 ## Update
 - Replace every `[EDIT]` and `Brahm Deo` / `deobsoa@gmail.com` placeholder.
-- Add `resume/resume.pdf`.
+- Add `resume.pdf`.
 - Nav is defined in `js/main.js`. Project content lives in `projects/*/index.html` and README.md.
 - Add a project: copy a project folder, edit, add a card on index.html and projects.html.
 
